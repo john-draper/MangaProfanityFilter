@@ -1,0 +1,4 @@
+# Ignore entire folders and their contents
+trash/
+output/
+input/
